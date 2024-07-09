@@ -1,0 +1,21 @@
+{
+    "name": "Amazon SES",
+    "owner": "WSO2",
+    "category": "Communication",
+    "documentationUrl": "https://docs.wso2.com/display/ESBCONNECTORS/Amazon+Simple+Email+Service+%28SES%29+Connector",
+    "description": "The Amazon SES connector allows you to access the Amazon SES API through WSO2 ESB. Amazon SES is a highly scalable and cost-effective email solution for businesses and developers. ",
+    "status": "Unsupported",
+    "labels": [
+        "connector"
+    ],
+    "releases": [
+        {
+            "tagName": "v1.0.0",
+            "products": [
+                "ESB 5.0.0",
+                "ESB 4.9.0"
+            ],
+            "isHidden": false
+        }
+    ]
+}
